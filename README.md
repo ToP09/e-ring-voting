@@ -1,4 +1,4 @@
-# e-ring-voting
+# E-ring Voting
 USE THIS AS YOUR RISK. THIS IS A CODE THAT'S BEING STILL WRITTEN
 This is demonstration voting system based on blockchain technology written by @NickP005 and @lindaniele
 
